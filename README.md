@@ -1,6 +1,4 @@
- 👋 Hi, I’m @nbala2k2
+### 👋 Hi, I’m Balaji
  
- 👀 I’m interested in Deep Learning. 
-
-🌱 I’m a sophomore studying at IIT madras.
+### I’m a sophomore studying at IIT madras interested in Deep Learning. 
 
