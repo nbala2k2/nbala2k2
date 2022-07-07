@@ -26,7 +26,7 @@
 # :sassy_man:  About me
 - :school: I am a `Student` at **`Indian Institute of Technology, Madras`**
 - :technologist: I love using ML as a solution for every `Problem`
-- :student: I’m inclined towards Ml and Data-sciences.
+- :student: I’m inclined towards ML and Data-sciences.
 - :nerd_face: Always `learning new things`
 - ✔ I’m looking to collaborate with any **Open - Source data science projects**<br> 
 
