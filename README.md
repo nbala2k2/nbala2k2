@@ -8,13 +8,13 @@
 
 </p>
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://www.cfainstitute.org/-/media/images/hero/a-data-scientist-at-work-providing-analytics-and-insights-to-investment-professionals2.jpg" height="200"/>
 </p>
 <br>
 
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
+<img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Nationality-Indian-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20French%20%26%20Tamil-brightgreen" />
